@@ -1,3 +1,3 @@
-# Hello there. 🌊
+# Hello there.
 
-I balance two worlds: trading equities at BMO Capital Markets during market hours and writing code for the rest of the day.
+Software engineer who trades. Solid understanding of ETFs and PT, and how to built trading systems around them.
